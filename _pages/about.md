@@ -1,23 +1,26 @@
 ---
 permalink: /
-title: "About me"
+title: "Homepage of Jing Liu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+</br>
+</br>
+</br>
 
 
 I am Jing Liu, a final-year Ph.D. student at Oklahoma State University, supervised by [Pro. Glenn Zhang](https://experts.okstate.edu/glenn.zhang). I completed my master’s degree at Nanjing Argriculture University,under the supervision of [Prof. Weiyun Zhun](https://research.com/u/weiyun-zhu). My doctoral research focuses on developing antibiotic alternatives through microbiome-based approaches.
 
-Profile of Qualifications
+## Profile of Qualifications
 ======
 ***
 * Skilled in bioinformatics and NGS data analysis and visualization, particularly with 16S rRNA gene sequencing, shotgun metagenomic sequencing, and RNAseq.
 * Extensive hands-on experience in animal experimentation, as well as DNA/RNA isolation and characterization.
 
 
-Research Interests
+## Research Interests
 ======
 ***
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
