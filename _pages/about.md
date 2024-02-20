@@ -8,8 +8,14 @@ redirect_from:
 ---
 
 
-I am Jing Liu, a final-year Ph.D. student Oklahoma State University, supervised by [Pro. Glenn Zhang(https://experts.okstate.edu/glenn.zhang). I completed my master’s degree at Nanjing Argriculture University,under the supervision of [Prof. Weiyun Zhun](https://research.com/u/weiyun-zhu). My research focuses Multi-omics Approaches to studying gut microbiota for Potentially Antibiotic Alternatives
-  
+I am Jing Liu, a final-year Ph.D. student at Oklahoma State University, supervised by [Pro. Glenn Zhang(https://experts.okstate.edu/glenn.zhang). I completed my master’s degree at Nanjing Argriculture University,under the supervision of [Prof. Weiyun Zhun](https://research.com/u/weiyun-zhu). My doctoral research focuses on developing antibiotic alternatives through microbiome-based approaches.
+
+Profile of Qualifications
+======
+***
+* Skilled in bioinformatics and NGS data analysis and visualization, particularly with 16S rRNA gene sequencing, shotgun metagenomic sequencing, and RNAseq
+* Extensive hands-on experience in animal experimentation, as well as DNA/RNA isolation and characterization
+
 
 
 Research Interests
