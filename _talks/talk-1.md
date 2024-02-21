@@ -9,4 +9,5 @@ location: "Chicago, IL"
 ---
 
 <p style="font-size: 16px;">Very happy to present our recent work “Intestinal Microbiome Confers Robust Colonization Resistance Against Necrotic Enteritis" at CRWAD and got first place of student oral presentation.
-<img width="1416" alt="Screen Shot 2024-02-21 at 9 00 01 AM" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/cdd24916-bda1-4036-ade0-6ec863befa32">
+  
+<img width="600" alt="Screen Shot 2024-02-21 at 9 00 01 AM" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/cdd24916-bda1-4036-ade0-6ec863befa32">
