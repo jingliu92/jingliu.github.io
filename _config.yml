@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jing's Homepage"
 title_separator          : "-"
-name                     : &name " Jing  Liu"
+name                     : &name "  Jing  Liu"
 description              : &description "personal description"
 url                      : "https://jingliu92.github.io/jingliu.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,9 @@ repository               : "jingliu12/jingliu.github.io/"
 author:
   # Biographic information
   avatar           : "selfie1.jpg"
-  name             : " Jing  Liu"
+  name             : "Jing Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate "
-  bio              : "Microbiome | Bioinformatics"
+  bio              : "Ph.D. Candidate | Microbiome | Bioinformatic"
   location         : "Stillwater"
   employer         : "Oklahoma State University"
   uri              : # URL
