@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hi there, I'm Jing "
+title: ":wave: Hi there, I'm Jing! "
 author_profile: true
 redirect_from: 
   - /about/
