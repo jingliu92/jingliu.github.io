@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Jing Liu"
+title: ":wave: Hi there! "
 author_profile: true
 redirect_from: 
   - /about/
