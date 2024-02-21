@@ -9,3 +9,4 @@ location: "Chicago, IL"
 ---
 
 
+![IMG_0804](https://github.com/jingliu92/jingliu.github.io/assets/100873921/48961b28-ec01-4d84-a0c8-eb97e0f82889)
