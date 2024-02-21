@@ -21,10 +21,10 @@ repository               : "jingliu12/jingliu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie.jpg"
-  name             : "    Jing Liu  "
+  avatar           : "selfie1.jpg"
+  name             : " <center>Jing Liu</center>"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate        Microbiome | Bioinformatics"
+  bio              : "Ph.D. Candidate <br> Microbiome | Bioinformatics"
   location         : "Stillwater"
   employer         : "Oklahoma State University"
   uri              : # URL
