@@ -22,9 +22,9 @@ repository               : "jingliu12/jingliu.github.io/"
 author:
   # Biographic information
   avatar           : "selfie1.jpeg"
-  name             : "Jing  Liu"
+  name             : "Jing Liu | Ph.D. Candidate "
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate | Microbiome | Bioinformatic"
+  bio              : "Microbiome | Bioinformatic"
   location         : "Stillwater"
   employer         : "Oklahoma State University"
   uri              : # URL
