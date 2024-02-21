@@ -3,13 +3,20 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-
 ---
-
+***
 {% include base_path %}
 
-Peer-Reviewed Publication
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Peer-Reviewed Publication
+***
+1.	Kim DM*, **Liu J***, Whitmore M.A. Tobin I, Zhao ZJ, Zhang G. (2024). Two intestinal microbiota-derived metabolites, deoxycholic acid and butyrate, synergize to enhance host defense peptide synthesis and alleviate necrotic enteritis. Journal of Animal Science and Biotechnology. (In press; (*Co-1st authors)
+2.	Lamichhane G, **Liu J**, Lee SJ, Lee DY, Zhang G, Kim Y. (2024). Curcumin mitigates the high-fat high-sugar diet-induced impairment of spatial memory, hepatic metabolism, and the alteration of the gut microbiome in Alzheimer’s disease-induced (3xTg-AD) mice. Nutrients.[[Link]](https://www.mdpi.com/2072-6643/16/2/240)
+3.	**Liu J**, Robinson K, Lyu W, Yang Q, Wang J, Christensen KD, Zhang G. (2023). Anaerobutyricum and Subdoligranulum are differentially enriched in broilers with disparate weight gains. Animals.[[Link]](https://www.mdpi.com/2076-2615/13/11/1834)
+4.	Arango M, Forga A, **Liu J**, Zhang G, Gray L, Moore R, Coles M, Atencio A, Trujillo C, Latorre JD, Tellez-Isaias M, Hargis B, Graham D. (2023). Characterizing the impact of Enterococcus cecorum infection during late embryogenesis on disease progression, cecal microbiome composition, and early performance in broiler chickens. Poultry Science. [[link]](https://www.sciencedirect.com/science/article/pii/S0032579123005783)
+5.	**Liu J**, Stewart S.N, Robinson K, Yang Q, Lyu W, Whitmore M.A, and Zhang G. (2021). Linkage between the intestinal microbiota and residual feed intake in broiler chickens. Journal of Animal Science and Biotechnology.[[Link]](https://jasbsci.biomedcentral.com/articles/10.1186/s40104-020-00542-2)
+6.	Yang Q, **Liu J**, Wang X, Robinson K, Whitmore MA, Stewart SN, Zhao J, Zhang G. (2021). Identification of an intestinal microbiota signature associated with the severity of necrotic enteritis. Frontiers in Microbiology.[[Link]](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.703693/full)
+7.	Yang Q, **Liu J**, Robinson KJ, Whitmore MA, Stewart SN, Zhang G. (2021). Perturbations of the ileal mycobiota by necrotic enteritis in broiler chickens. Journal of Animal Science and Biotechnology.[[Link]](https://jasbsci.biomedcentral.com/articles/10.1186/s40104-021-00628-5)
+8.	Robinson K, Xiao Y, Johnson TJ, Chen B, Yang Q, Lyu W, Wang J, Fansler N, Becker S, **Liu J**, Yang H, Zhang G. 2020. Chicken intestinal mycobiome: initial characterization and its response to bacitracin methylene disalicylate. Applied and Environmental Microbiology.[[Link]](https://journals.asm.org/doi/full/10.1128/aem.00304-20)
+9.	**Liu J**, Mu C, Zhu W. Effect of different nitrogen structures on pig small intestinal bacteria by an in vitro fermentation method.(2018). Acta Microbiologica Sinica.[[Link]](https://actamicro.ijournals.cn/actamicrocn/article/abstract/20180107?st=alljournals)
+10.	**Liu J**, Yu K, Zhu W. Amino acid sensing in the gut and its mediation in gut-brain signal transduction. (2016). Animal Nutrition. [[Link]](https://www.sciencedirect.com/science/article/pii/S2405654516300257)
+
