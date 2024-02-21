@@ -7,7 +7,7 @@ author_profile: true
 ***
 {% include base_path %}
 
-### Peer-Reviewed Publications
+## Peer-Reviewed Publications
 ***
 1.	Kim DM*, **Liu J** *, Whitmore M.A. Tobin I, Zhao ZJ, Zhang G. (2024). Two intestinal microbiota-derived metabolites, deoxycholic acid and butyrate, synergize to enhance host defense peptide synthesis and alleviate necrotic enteritis. Journal of Animal Science and Biotechnology. (In press; (*Co-1st authors)
 2.	Lamichhane G, **Liu J**, Lee SJ, Lee DY, Zhang G, Kim Y. (2024). Curcumin mitigates the high-fat high-sugar diet-induced impairment of spatial memory, hepatic metabolism, and the alteration of the gut microbiome in Alzheimer’s disease-induced (3xTg-AD) mice. Nutrients.[[Link]](https://www.mdpi.com/2072-6643/16/2/240)
@@ -20,7 +20,7 @@ author_profile: true
 9.	**Liu J**, Mu C, Zhu W. Effect of different nitrogen structures on pig small intestinal bacteria by an in vitro fermentation method.(2018). Acta Microbiologica Sinica.[[Link]](https://actamicro.ijournals.cn/actamicrocn/article/abstract/20180107?st=alljournals)
 10.	**Liu J**, Yu K, Zhu W. Amino acid sensing in the gut and its mediation in gut-brain signal transduction. (2016). Animal Nutrition. [[Link]](https://www.sciencedirect.com/science/article/pii/S2405654516300257)
 
-### Abstracts
+## Abstracts
 ***
 1.	**Liu J**, Q Yang, Whitmore M.A, Stewart S.N, Robinson K, Ran JS, and Zhang G. (2022). Discovery of the intestinal microbiota that are associated with residual feed intake in broiler chickens. PSA Annual Conference, San Antonio, TX. 
 2.	Lee DY, **Liu J**, Chandrasekaran P, Zhang G, O'Connell J, Egan J, and Kim Y. (2023). P23-046-23 Dietary Curcumin Downregulates the Hepatic Cellular Senescence Pathway and Alters Gut Microbiota Composition in Aged Mice. Current Developments in Nutrition,7.
