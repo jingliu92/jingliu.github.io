@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jing Liu"
+title                    : "Jing's Homepage"
 title_separator          : "-"
 name                     : &name "Jing Liu"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "jingliu12/jingliu.github.io/"
 author:
   # Biographic information
   avatar           : "selfie.jpg"
-  name             : "Jing Liu"
+  name             : "    Jing Liu  "
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate | Microbiome | Bioinformatics"
+  bio              : "Ph.D. Candidate        Microbiome | Bioinformatics"
   location         : "Stillwater"
   employer         : "Oklahoma State University"
   uri              : # URL
