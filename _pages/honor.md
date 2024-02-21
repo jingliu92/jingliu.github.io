@@ -13,5 +13,12 @@ author_profile: true
 🌻 **Williams Distinguished Graduate Fellowship**, Oklahoma State University, 2023. <br />
 👩‍🎓 **Women’s Faculty Council Student Research Award**, Oklahoma State University,2023. <br />
 🐥 **Graduate Scholarship**, Department of Animal and Food Sciences, Oklahoma State University, 2021. <br />
-🐶 **2nd place, Biological Sciences Symposium Presentation Competition**, Oklahoma State University, 2020.
+🐶 **2nd place, Biological Sciences Symposium Presentation Competition**, Oklahoma State University, 2021.
 
+## Service
+***
+* **Judge** of Oklahoma State Science and Engineering Fair.
+* **Reviewer** of Animal Microbiome.
+* **Teaching Assistant** of ANSI3423 *Animal Genetics* (Every two semesters). (Jan.2021 - Aug.2023) <br />
+  - [x] Instructed classes ranging from 100-120 students in undergraduate level.
+  - [x] Facilitated hands-on learning at individual level and in group settings.
