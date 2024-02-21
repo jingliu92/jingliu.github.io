@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-1
 venue: "Conference of Research Workers in Animal Dieseases"
-date: 01-19-2024
+date: 2024-01-19
 location: "Chicago, IL"
 ---
 
