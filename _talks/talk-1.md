@@ -8,8 +8,9 @@ date: 2024-01-19
 location: "Chicago, IL"
 ---
 
-<p style="font-size: 14px;">Very happy to present our recent work “Intestinal Microbiome Confers Robust Colonization Resistance Against Necrotic Enteritis" at CRWAD and got first place of student oral presentation.  
-  
-
-  
-<img width="400" alt="Screen Shot 2024-02-21 at 9 00 01 AM" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/cdd24916-bda1-4036-ade0-6ec863befa32">
+<p style="font-size: 14px;">Very happy to present our recent work “Intestinal Microbiome Confers Robust Colonization Resistance Against Necrotic Enteritis" at [CRWAD](https://crwad.org/2024-crwad-schedule-at-a-glance/) and got the first place of student oral presentation.  <br>
+<br>
+<br>
+<p align="center">  
+<img width="800" alt="Screen Shot 2024-02-21 at 9 05 53 AM" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/d48cda37-fde4-402b-81b2-32948fc47d82">
+</p>
