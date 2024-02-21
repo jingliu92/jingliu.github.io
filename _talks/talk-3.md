@@ -1,5 +1,5 @@
 ---
-title: "Poster "
+title: "Poster Presentation at 2022 PSA Annual Conference"
 collection: talks
 type: "Poster"
 permalink: /talks/talk-3
