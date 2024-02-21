@@ -21,7 +21,7 @@ repository               : "jingliu12/jingliu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie2.png"
+  avatar           : "selfie.png"
   name             : "Jing Liu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate, Microbiome, Bioinformatics"
