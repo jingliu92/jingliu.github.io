@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ":wave: Hi there, I'm Jing! "
+title: " :wave: Hi there, I'm Jing! "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ---
-
+:wave: Hi there, I'm Jing!
 
 
 <img align="right" width="350" salt="figure1" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/8b0951e2-08d8-4164-9840-aab84153b6f8">
