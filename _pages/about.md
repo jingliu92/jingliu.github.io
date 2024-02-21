@@ -24,10 +24,9 @@ Profile of Qualifications
 
 Research Interests
 ------
-### NGS data analysis pipeline development and refining 
-  * Developed data analysis workflows using Python and R for NGS data analysis, statistical computing, and visualization, including 16S rRNA gene sequencing, metagenomic sequencing, and RNAseq.
-### Development of antibiotic alternatives through microbiome-based approaches 
-  * Conducted multiple animal trials and microbiome research to identify microbiome or microbial metabolites biomarkers that could be developed as antibiotic alternatives.
+* **NGS data analysis pipeline development and refining**: Developed data analysis workflows using Python and R for NGS data analysis, statistical computing, and visualization, including 16S rRNA gene sequencing, metagenomic sequencing, and RNAseq.  
+
+* **Development of antibiotic alternatives through microbiome-based approaches**: Conducted multiple animal trials and microbiome research to identify microbiome or microbial metabolites biomarkers that could be developed as antibiotic alternatives.
 
 
 Education
