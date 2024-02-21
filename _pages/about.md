@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img align="right" width="200" salt="figure1" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/8b0951e2-08d8-4164-9840-aab84153b6f8">
+<img align="right" width="500" salt="figure1" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/8b0951e2-08d8-4164-9840-aab84153b6f8">
 I am Jing Liu, a final-year Ph.D. student at Oklahoma State University, supervised by [Pro. Glenn Zhang](https://experts.okstate.edu/glenn.zhang). I completed my master’s degree at Nanjing Argriculture University,under the supervision of [Prof. Weiyun Zhun](https://research.com/u/weiyun-zhu).My doctoral research focuses on developing antibiotic alternatives through microbiome-based approaches. 
 
 
