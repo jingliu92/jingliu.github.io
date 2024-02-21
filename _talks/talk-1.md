@@ -7,6 +7,6 @@ venue: "Conference of Research Workers in Animal Dieseases (CRWAD)"
 date: 2024-01-19
 location: "Chicago, IL"
 ---
-<p style="font-size: 14px;">Very happy to present our recent work “Intestinal Microbiome Confers Robust Colonization Resistance Against Necrotic Enteritis" at CRWAD and got first place of student oral presentation
+<p style="font-size: 12px;">Very happy to present our recent work “Intestinal Microbiome Confers Robust Colonization Resistance Against Necrotic Enteritis" at CRWAD and got first place of student oral presentation
 
 
