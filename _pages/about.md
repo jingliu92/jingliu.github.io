@@ -17,7 +17,7 @@ I'm a final-year Ph.D. student at Oklahoma State University, supervised by [Pro.
 
 Profile of Qualifications
 ------
-* Skilled in bioinformatics and NGS data analysis and visualization, particularly with 16S rRNA gene sequencing, shotgun metagenomic sequencing, and RNAseq.
+* 5 years of experience in bioinformatics and NGS data analysis and visualization, particularly with 16S rRNA gene sequencing, shotgun metagenomic sequencing, and RNAseq.
 * Extensive hands-on experience in animal experimentation, as well as DNA/RNA isolation and characterization.
 
 
