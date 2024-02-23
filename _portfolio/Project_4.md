@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Response of the Gut Microbiome to Eimeria maxi-ma-induced Coccidiosis in Broiler Chickens"
+title: "Kinetic Shifts of Gut Microbiota in Response to Necrotic Enteritis"
 collection: Bioinformatics; Microbiota; Enteric Disease
 ---
 
