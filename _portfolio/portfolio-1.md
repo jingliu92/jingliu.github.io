@@ -1,6 +1,6 @@
 ---
-title: "NGS data analysis: pipeline development and refining"
-collection: research
+title: "NGS Data Analysis Pipeline Development and Refining"
+collection: Bioinformatics 
 ---
 
 ***
