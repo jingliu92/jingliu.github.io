@@ -2,7 +2,7 @@
 title: "Research Presentation @ CRWAD Conference"
 collection: talks
 type: "Talk"
-permalink: /talks/talk-1
+permalink: /research/project_1
 venue: "Conference of Research Workers in Animal Dieseases (CRWAD)"
 date: 2024-01-22
 location: "Chicago, IL"
