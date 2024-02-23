@@ -1,5 +1,6 @@
 ---
 title: "NGS data analysis: pipeline development and refining"
+excerpt: "Bioinformatics analysis"
 collection: research
 ---
 
