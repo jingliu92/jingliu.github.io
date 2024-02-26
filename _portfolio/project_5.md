@@ -1,8 +1,17 @@
 ---
-title: "Identify the gut bacteria and metabolites that are associated with NE resistance"
-collection: Bioinformatics; Microbiota; Enteric Disease
+title: "Collaboration Projects"
+collection: Bioinformatics; Collaboration
 ---
 
 ***
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Selected studies I helped with bioinformatics analysis:
+1. Impacts of Fermented Red Ginseng (FRG) and Curcumin on Alzheimer’s Disease [[Link]](https://www.mdpi.com/2072-6643/16/2/240).
+(Collaboration with Prof. Yoo Kim, Department of Human Nutritional Science, OSU)
+* Conducted comprehensive analysis of microbiota and RNA sequencing data of multiple studies to explore the anti-aging effects of FRG and curcumin.
+* Performed correlation analysis between differentially enriched bacteria and differentially expressed genes (DEGs), contributing to understanding the interaction between host and gut microbiota underlying anti-aging.
+
+2. Alternative Solutions for Pathogens in Poultry
+(Collaboration with Prof. GuillermoTellez-Isaias, Department of Poultry Science,University of Arkansas)
+* Executed mutiple microbiota data analysis, focusing on identifying potential solutions to mitigate pathogens in poultry [[Link]](https://www.sciencedirect.com/science/article/pii/S0032579123005783].
+* Drafted reports for summarizing key results for each study.
