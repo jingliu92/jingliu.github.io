@@ -1,8 +1,11 @@
 ---
-title: "Dynamic Response of the Gut Microbiome to Eimeria maxi-ma-induced Coccidiosis in Broiler Chickens"
+title: "Dynamic Response of the Gut Microbiome to Eimeria maxima-induced Coccidiosis in Broiler Chickens"
 collection: Bioinformatics; Microbiota; Enteric Disease
 ---
 
 ***
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Conducted animal trials and 16S rRNA and metagenomic sequencing data analysis to study the kinetic shift of the gut microbiota in response to coccidiosis and necrotic enteritis in broiler chickens. Paper is in press, check the slides below:
+<img width="1397" alt="Screen Shot 2024-02-25 at 9 40 22 PM" src="https://github.com/jingliu92/jingliu.github.io/assets/100873921/665081c8-740e-41d3-8a04-5ef71331155d">
+
+
