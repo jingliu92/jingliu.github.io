@@ -1,5 +1,5 @@
 ---
-title: "Collaboration Projects"
+title: "Collaborative Projects"
 collection: Bioinformatics; Collaboration
 ---
 
