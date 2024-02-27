@@ -5,7 +5,7 @@ collection: Bioinformatics; Collaboration
 
 ***
 
-Selected studies I contributed to with bioinformatics analysis:
+Selected studies to which I contributed bioinformatics analysis:
 1. Impacts of Fermented Red Ginseng (FRG) and Curcumin on Alzheimer’s Disease [[Link]](https://www.mdpi.com/2072-6643/16/2/240). <br>
 (Collaboration with Prof. Yoo Kim, Department of Human Nutritional Science, OSU)
 * Conducted comprehensive analysis of microbiota and RNA sequencing data of multiple studies to explore the anti-aging effects of FRG and curcumin.
